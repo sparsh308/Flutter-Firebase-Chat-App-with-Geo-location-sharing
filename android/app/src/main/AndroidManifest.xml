@@ -13,7 +13,7 @@
         android:label="chatApp"
         android:icon="@mipmap/ic_launcher">
               <meta-data android:name="com.google.android.geo.API_KEY"
-                 android:value="AIzaSyCa8aHi5w5UlP5WUSTc3wZsO4lSB46fJp4"/>
+                 android:value="********<api key**********"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
