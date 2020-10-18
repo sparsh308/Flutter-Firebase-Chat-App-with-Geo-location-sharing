@@ -1,6 +1,10 @@
-# chatApp
+# Flutter Chat App With Gep Location Sharing
+### This Repo does not contain Google Json file and Api key for security reasons :).
 
-A new Flutter project.
+Dont forget to include the Google json file in android folder for Firebase Integration and Google map api In android manifest file 
+![untitled-project@2x](https://user-images.githubusercontent.com/47140660/96374896-3dd27700-1193-11eb-9896-ea7482fccbce.png)
+
+
 
 ## Getting Started
 
